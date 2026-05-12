@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "280971677550",
+    "project_id": "speakbuddy-666da",
+    "storage_bucket": "speakbuddy-666da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280971677550:android:d797d2f6afc53252983b7f",
+        "android_client_info": {
+          "package_name": "com.example.chatbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280971677550-s5raqu6p8o73mhu67g2udb56529ecjc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Rk7TMSVOoWF1WUYJtxZkjV0B1GWy9c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280971677550-s5raqu6p8o73mhu67g2udb56529ecjc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280971677550:android:54fd0ebe9bec9a94983b7f",
+        "android_client_info": {
+          "package_name": "com.example.speakbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280971677550-l989pjstemj9qtf9bscur6bdbbo3c18l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakbuddy",
+            "certificate_hash": "8f8025568fa86142f702ca673f42d3d2a3e71a1c"
+          }
+        },
+        {
+          "client_id": "280971677550-s5raqu6p8o73mhu67g2udb56529ecjc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Rk7TMSVOoWF1WUYJtxZkjV0B1GWy9c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280971677550-s5raqu6p8o73mhu67g2udb56529ecjc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
